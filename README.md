@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi there 👋
+
+- Do you want to know about me? -> [My personal Webside](https://mspifarre.com)
+- Do you want to know about my skills? -> Check the point below!
+- Do you want to know about my current jobs? 
+-- I work in @Launchmetrics
+-- I work as a teacher in a high school degree in cybersecurity!
 
 <!--
 **raikkon88/raikkon88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
